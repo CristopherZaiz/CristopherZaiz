@@ -27,8 +27,6 @@ My name is Cristopher zaiz Ortega, I live in Dominican Republic and I'm 18 years
 - [Gmail](zaizDeveloper@gmail.com)
 ***
 ## :chart_with_upwards_trend:  GitHub Stats
-<br>
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CristopherZaiz&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristopherZaiz&layout=compact)](https://github.com/CristopherZaiz/github-readme-stats)
 
