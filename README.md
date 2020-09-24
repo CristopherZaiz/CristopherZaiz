@@ -28,7 +28,6 @@ My name is Cristopher zaiz Ortega, I live in Dominican Republic and I'm 18 years
 - [Twitter](@CristopherZaiz)
 - [Instegram]()
 - [Gmail](zaizDeveloper@gmail.com)
-
 ***
 <br>
 
