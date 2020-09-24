@@ -1,8 +1,11 @@
-# Hi, I'm Cristopher Zaiz :alien: 
 <img align="center" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"/>
-<!--
-**CristopherZaiz/CristopherZaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+# Hi, I'm Cristopher Zaiz :alien: 
+
+
+**CristopherZaiz/CristopherZaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
